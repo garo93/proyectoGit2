@@ -1,18 +1,21 @@
 html {
   font-size: 12px;
-  font-family: 'Open Sans', sans-serif;
+  font-family:'Comic Sans';
 }
 h1 {
   font-size: 50px;
   text-align: center;
+  color:white;
 }
 h2 {
   font-size: 30px;
   text-align: center;
+  color:white;
 }
 h4 {
   font-size: 20px;
   text-align: center;
+  color:white;
 }
 p {
   font-size: 16px;
